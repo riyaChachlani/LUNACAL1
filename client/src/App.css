@@ -1,0 +1,11 @@
+/* Additional styles can be added here */
+.ant-tabs-tab {
+  color: white !important;
+}
+.ant-tabs-ink-bar {
+  background-color: #4f46e5 !important;
+}
+.ant-carousel .slick-prev,
+.ant-carousel .slick-next {
+  color: white;
+}
